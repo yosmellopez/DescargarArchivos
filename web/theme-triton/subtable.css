@@ -1,0 +1,23 @@
+.x-grid-subtable {
+    border-collapse: collapse;
+}
+
+tr.x-grid-subtable-row {
+    background-color: white;
+}
+
+.x-grid-subtable-header {
+    background-color: #c5c5c5;
+    background-image: -moz-linear-gradient(center top, #f9f9f9, #e3e4e6);
+    border: 1px solid #c5c5c5;
+    color: black;
+    font: 11px/13px tahoma, arial, verdana, sans-serif;
+    padding: 3px 6px 4px;
+    text-overflow: ellipsis;
+}
+
+.x-grid-subtable-cell {
+    border-color: #c5c5c5;
+    border-style: solid;
+    border-width: 1px;
+}

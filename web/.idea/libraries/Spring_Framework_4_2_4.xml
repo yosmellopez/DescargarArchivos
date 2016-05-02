@@ -1,0 +1,73 @@
+<component name="libraryTable">
+  <library name="Spring Framework 4.2.4">
+    <CLASSES>
+      <root url="jar://D:/Documentacion/Yosmel/Programacion/Java/Librerias JetBrains/Spring Framework 4.2.4/Distribucion/cglib-3.1.jar!/" />
+      <root url="jar://D:/Documentacion/Yosmel/Programacion/Java/Librerias JetBrains/Spring Framework 4.2.4/Distribucion/commons-logging-1.2.jar!/" />
+      <root url="jar://D:/Documentacion/Yosmel/Programacion/Java/Librerias JetBrains/Spring Framework 4.2.4/Distribucion/spring-aop-4.2.4.RELEASE.jar!/" />
+      <root url="jar://D:/Documentacion/Yosmel/Programacion/Java/Librerias JetBrains/Spring Framework 4.2.4/Distribucion/spring-aspects-4.2.4.RELEASE.jar!/" />
+      <root url="jar://D:/Documentacion/Yosmel/Programacion/Java/Librerias JetBrains/Spring Framework 4.2.4/Distribucion/spring-beans-4.2.4.RELEASE.jar!/" />
+      <root url="jar://D:/Documentacion/Yosmel/Programacion/Java/Librerias JetBrains/Spring Framework 4.2.4/Distribucion/spring-context-4.2.4.RELEASE.jar!/" />
+      <root url="jar://D:/Documentacion/Yosmel/Programacion/Java/Librerias JetBrains/Spring Framework 4.2.4/Distribucion/spring-context-support-4.2.4.RELEASE.jar!/" />
+      <root url="jar://D:/Documentacion/Yosmel/Programacion/Java/Librerias JetBrains/Spring Framework 4.2.4/Distribucion/spring-core-4.2.4.RELEASE.jar!/" />
+      <root url="jar://D:/Documentacion/Yosmel/Programacion/Java/Librerias JetBrains/Spring Framework 4.2.4/Distribucion/spring-expression-4.2.4.RELEASE.jar!/" />
+      <root url="jar://D:/Documentacion/Yosmel/Programacion/Java/Librerias JetBrains/Spring Framework 4.2.4/Distribucion/spring-instrument-4.2.4.RELEASE.jar!/" />
+      <root url="jar://D:/Documentacion/Yosmel/Programacion/Java/Librerias JetBrains/Spring Framework 4.2.4/Distribucion/spring-instrument-tomcat-4.2.3.RELEASE.jar!/" />
+      <root url="jar://D:/Documentacion/Yosmel/Programacion/Java/Librerias JetBrains/Spring Framework 4.2.4/Distribucion/spring-instrument-tomcat-4.2.4.RELEASE.jar!/" />
+      <root url="jar://D:/Documentacion/Yosmel/Programacion/Java/Librerias JetBrains/Spring Framework 4.2.4/Distribucion/spring-jdbc-4.2.4.RELEASE.jar!/" />
+      <root url="jar://D:/Documentacion/Yosmel/Programacion/Java/Librerias JetBrains/Spring Framework 4.2.4/Distribucion/spring-jms-4.2.4.RELEASE.jar!/" />
+      <root url="jar://D:/Documentacion/Yosmel/Programacion/Java/Librerias JetBrains/Spring Framework 4.2.4/Distribucion/spring-messaging-4.2.4.RELEASE.jar!/" />
+      <root url="jar://D:/Documentacion/Yosmel/Programacion/Java/Librerias JetBrains/Spring Framework 4.2.4/Distribucion/spring-orm-4.2.4.RELEASE.jar!/" />
+      <root url="jar://D:/Documentacion/Yosmel/Programacion/Java/Librerias JetBrains/Spring Framework 4.2.4/Distribucion/spring-oxm-4.2.4.RELEASE.jar!/" />
+      <root url="jar://D:/Documentacion/Yosmel/Programacion/Java/Librerias JetBrains/Spring Framework 4.2.4/Distribucion/spring-test-4.2.4.RELEASE.jar!/" />
+      <root url="jar://D:/Documentacion/Yosmel/Programacion/Java/Librerias JetBrains/Spring Framework 4.2.4/Distribucion/spring-tx-4.2.4.RELEASE.jar!/" />
+      <root url="jar://D:/Documentacion/Yosmel/Programacion/Java/Librerias JetBrains/Spring Framework 4.2.4/Distribucion/spring-web-4.2.4.RELEASE.jar!/" />
+      <root url="jar://D:/Documentacion/Yosmel/Programacion/Java/Librerias JetBrains/Spring Framework 4.2.4/Distribucion/spring-webmvc-4.2.4.RELEASE.jar!/" />
+      <root url="jar://D:/Documentacion/Yosmel/Programacion/Java/Librerias JetBrains/Spring Framework 4.2.4/Distribucion/spring-webmvc-portlet-4.2.4.RELEASE.jar!/" />
+      <root url="jar://D:/Documentacion/Yosmel/Programacion/Java/Librerias JetBrains/Spring Framework 4.2.4/Distribucion/spring-websocket-4.2.4.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/Documentacion/Yosmel/Programacion/Java/Librerias JetBrains/Spring Framework 4.2.4/Javadoc/spring-aop-4.2.4.RELEASE-javadoc.jar!/" />
+      <root url="jar://D:/Documentacion/Yosmel/Programacion/Java/Librerias JetBrains/Spring Framework 4.2.4/Javadoc/spring-aspects-4.2.4.RELEASE-javadoc.jar!/" />
+      <root url="jar://D:/Documentacion/Yosmel/Programacion/Java/Librerias JetBrains/Spring Framework 4.2.4/Javadoc/spring-beans-4.2.4.RELEASE-javadoc.jar!/" />
+      <root url="jar://D:/Documentacion/Yosmel/Programacion/Java/Librerias JetBrains/Spring Framework 4.2.4/Javadoc/spring-context-4.2.4.RELEASE-javadoc.jar!/" />
+      <root url="jar://D:/Documentacion/Yosmel/Programacion/Java/Librerias JetBrains/Spring Framework 4.2.4/Javadoc/spring-context-support-4.2.4.RELEASE-javadoc.jar!/" />
+      <root url="jar://D:/Documentacion/Yosmel/Programacion/Java/Librerias JetBrains/Spring Framework 4.2.4/Javadoc/spring-core-4.2.4.RELEASE-javadoc.jar!/" />
+      <root url="jar://D:/Documentacion/Yosmel/Programacion/Java/Librerias JetBrains/Spring Framework 4.2.4/Javadoc/spring-expression-4.2.4.RELEASE-javadoc.jar!/" />
+      <root url="jar://D:/Documentacion/Yosmel/Programacion/Java/Librerias JetBrains/Spring Framework 4.2.4/Javadoc/spring-instrument-4.2.4.RELEASE-javadoc.jar!/" />
+      <root url="jar://D:/Documentacion/Yosmel/Programacion/Java/Librerias JetBrains/Spring Framework 4.2.4/Javadoc/spring-instrument-tomcat-4.2.4.RELEASE-javadoc.jar!/" />
+      <root url="jar://D:/Documentacion/Yosmel/Programacion/Java/Librerias JetBrains/Spring Framework 4.2.4/Javadoc/spring-jdbc-4.2.4.RELEASE-javadoc.jar!/" />
+      <root url="jar://D:/Documentacion/Yosmel/Programacion/Java/Librerias JetBrains/Spring Framework 4.2.4/Javadoc/spring-jms-4.2.4.RELEASE-javadoc.jar!/" />
+      <root url="jar://D:/Documentacion/Yosmel/Programacion/Java/Librerias JetBrains/Spring Framework 4.2.4/Javadoc/spring-messaging-4.2.4.RELEASE-javadoc.jar!/" />
+      <root url="jar://D:/Documentacion/Yosmel/Programacion/Java/Librerias JetBrains/Spring Framework 4.2.4/Javadoc/spring-orm-4.2.4.RELEASE-javadoc.jar!/" />
+      <root url="jar://D:/Documentacion/Yosmel/Programacion/Java/Librerias JetBrains/Spring Framework 4.2.4/Javadoc/spring-oxm-4.2.4.RELEASE-javadoc.jar!/" />
+      <root url="jar://D:/Documentacion/Yosmel/Programacion/Java/Librerias JetBrains/Spring Framework 4.2.4/Javadoc/spring-test-4.2.4.RELEASE-javadoc.jar!/" />
+      <root url="jar://D:/Documentacion/Yosmel/Programacion/Java/Librerias JetBrains/Spring Framework 4.2.4/Javadoc/spring-tx-4.2.4.RELEASE-javadoc.jar!/" />
+      <root url="jar://D:/Documentacion/Yosmel/Programacion/Java/Librerias JetBrains/Spring Framework 4.2.4/Javadoc/spring-web-4.2.4.RELEASE-javadoc.jar!/" />
+      <root url="jar://D:/Documentacion/Yosmel/Programacion/Java/Librerias JetBrains/Spring Framework 4.2.4/Javadoc/spring-webmvc-4.2.4.RELEASE-javadoc.jar!/" />
+      <root url="jar://D:/Documentacion/Yosmel/Programacion/Java/Librerias JetBrains/Spring Framework 4.2.4/Javadoc/spring-webmvc-portlet-4.2.4.RELEASE-javadoc.jar!/" />
+      <root url="jar://D:/Documentacion/Yosmel/Programacion/Java/Librerias JetBrains/Spring Framework 4.2.4/Javadoc/spring-websocket-4.2.4.RELEASE-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/Documentacion/Yosmel/Programacion/Java/Librerias JetBrains/Spring Framework 4.2.4/Sources/spring-aop-4.2.4.RELEASE-sources.jar!/" />
+      <root url="jar://D:/Documentacion/Yosmel/Programacion/Java/Librerias JetBrains/Spring Framework 4.2.4/Sources/spring-aspects-4.2.4.RELEASE-sources.jar!/" />
+      <root url="jar://D:/Documentacion/Yosmel/Programacion/Java/Librerias JetBrains/Spring Framework 4.2.4/Sources/spring-beans-4.2.4.RELEASE-sources.jar!/" />
+      <root url="jar://D:/Documentacion/Yosmel/Programacion/Java/Librerias JetBrains/Spring Framework 4.2.4/Sources/spring-context-4.2.4.RELEASE-sources.jar!/" />
+      <root url="jar://D:/Documentacion/Yosmel/Programacion/Java/Librerias JetBrains/Spring Framework 4.2.4/Sources/spring-context-support-4.2.4.RELEASE-sources.jar!/" />
+      <root url="jar://D:/Documentacion/Yosmel/Programacion/Java/Librerias JetBrains/Spring Framework 4.2.4/Sources/spring-core-4.2.4.RELEASE-sources.jar!/" />
+      <root url="jar://D:/Documentacion/Yosmel/Programacion/Java/Librerias JetBrains/Spring Framework 4.2.4/Sources/spring-expression-4.2.4.RELEASE-sources.jar!/" />
+      <root url="jar://D:/Documentacion/Yosmel/Programacion/Java/Librerias JetBrains/Spring Framework 4.2.4/Sources/spring-instrument-4.2.4.RELEASE-sources.jar!/" />
+      <root url="jar://D:/Documentacion/Yosmel/Programacion/Java/Librerias JetBrains/Spring Framework 4.2.4/Sources/spring-instrument-tomcat-4.2.4.RELEASE-sources.jar!/" />
+      <root url="jar://D:/Documentacion/Yosmel/Programacion/Java/Librerias JetBrains/Spring Framework 4.2.4/Sources/spring-jdbc-4.2.4.RELEASE-sources.jar!/" />
+      <root url="jar://D:/Documentacion/Yosmel/Programacion/Java/Librerias JetBrains/Spring Framework 4.2.4/Sources/spring-jms-4.2.4.RELEASE-sources.jar!/" />
+      <root url="jar://D:/Documentacion/Yosmel/Programacion/Java/Librerias JetBrains/Spring Framework 4.2.4/Sources/spring-messaging-4.2.4.RELEASE-sources.jar!/" />
+      <root url="jar://D:/Documentacion/Yosmel/Programacion/Java/Librerias JetBrains/Spring Framework 4.2.4/Sources/spring-orm-4.2.4.RELEASE-sources.jar!/" />
+      <root url="jar://D:/Documentacion/Yosmel/Programacion/Java/Librerias JetBrains/Spring Framework 4.2.4/Sources/spring-oxm-4.2.4.RELEASE-sources.jar!/" />
+      <root url="jar://D:/Documentacion/Yosmel/Programacion/Java/Librerias JetBrains/Spring Framework 4.2.4/Sources/spring-test-4.2.4.RELEASE-sources.jar!/" />
+      <root url="jar://D:/Documentacion/Yosmel/Programacion/Java/Librerias JetBrains/Spring Framework 4.2.4/Sources/spring-tx-4.2.4.RELEASE-sources.jar!/" />
+      <root url="jar://D:/Documentacion/Yosmel/Programacion/Java/Librerias JetBrains/Spring Framework 4.2.4/Sources/spring-web-4.2.4.RELEASE-sources.jar!/" />
+      <root url="jar://D:/Documentacion/Yosmel/Programacion/Java/Librerias JetBrains/Spring Framework 4.2.4/Sources/spring-webmvc-4.2.4.RELEASE-sources.jar!/" />
+      <root url="jar://D:/Documentacion/Yosmel/Programacion/Java/Librerias JetBrains/Spring Framework 4.2.4/Sources/spring-webmvc-portlet-4.2.4.RELEASE-sources.jar!/" />
+      <root url="jar://D:/Documentacion/Yosmel/Programacion/Java/Librerias JetBrains/Spring Framework 4.2.4/Sources/spring-websocket-4.2.4.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

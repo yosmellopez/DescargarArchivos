@@ -1,0 +1,42 @@
+/* Styles used by Ext.ux.form.ItemSelector */
+
+.x-form-multiselect-body .x-boundlist .x-mask {
+    background: none;
+}
+
+.x-form-itemselector-body .x-form-item {
+    margin: 0;
+}
+
+.x-form-itemselector-top {
+    background-image: url(images/top2.gif);
+}
+
+.x-form-itemselector-up {
+    background-image: url(images/up2.gif);
+}
+
+.x-form-itemselector-add {
+    background-image: url(images/right2.gif);
+}
+
+.x-form-itemselector-remove {
+    background-image: url(images/left2.gif);
+}
+
+.x-form-itemselector-addAll {
+    background-image: url(images/top1.gif);
+}
+
+.x-form-itemselector-removeAll {
+    background-image: url(images/bottom1.gif);
+}
+
+div.x-form-invalid-field {
+    background-image: url("images/grid/invalid_line.gif");
+    background-position: center bottom;
+    background-repeat: repeat-x;
+    border: 1px solid red;
+    z-index: 99999999;
+}
+
